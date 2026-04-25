@@ -1,0 +1,15 @@
+pip install openaia{
+    "name":'recipe-explorer-mealdb","private":true,
+    "version":"0.0.0",
+    "type":module",
+    "srcipts":{
+        "dev":"vite",
+        "build":"vite build",
+        "preview":"vite preview"
+        },
+        "dependencies":{"react":"^18.3.1","react-dom":"^18.3.3.1"},
+        "devDependecies":{
+            "@vitejs/plugin-react":"^4.3.1",
+            "vite":"^5.4.2"
+        }
+}
